@@ -1,0 +1,13 @@
+.homePage {
+  width: 50%;
+  margin: auto;
+
+  h2 {
+    text-align: center;
+    font-weight: 700;
+  }
+  .searchBtn {
+    padding: 5px;
+    background-color: getColor(primary);
+  }
+}

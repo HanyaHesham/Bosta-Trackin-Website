@@ -1,0 +1,50 @@
+.nav-bar {
+  .nav-bar-logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    a {
+      color: getColor(primary);
+      display: flex;
+      align-items: center;
+      margin-left: 20px;
+      h2 {
+        font-weight: 700 !important;
+      }
+    }
+
+    img {
+      width: 30px;
+      height: 30px;
+      // margin-right: 10px;
+    }
+  }
+  .lang-button {
+    border: none;
+    color: getColor(primary);
+    &:hover {
+      color: getColor(primary) !important;
+    }
+  }
+  .trackDropdown {
+    .dropdown-menu {
+      padding: 25px !important;
+    }
+    .searchBtn {
+      padding: 5px;
+      background-color: getColor(primary);
+    }
+  }
+  .trackBtn {
+    font-size: 1rem !important;
+    font-weight: bold !important;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: 1px solid getColor(border-color);
+    &:hover,
+    &:focus {
+      color: getColor(primary) !important;
+    }
+  }
+}

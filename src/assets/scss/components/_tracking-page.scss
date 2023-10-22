@@ -1,0 +1,51 @@
+.mainContainer {
+  width: 90%;
+  margin: auto;
+  margin-top: 10% !important;
+
+  .address-section {
+    border-radius: 10px;
+    border: 1px solid getColor(border-color);
+    background-color: getColor(light-background);
+    padding: 20px;
+    margin-bottom: 25px;
+  }
+  .report-section {
+    border-radius: 10px;
+    border: 1px solid getColor(border-color);
+    padding: 20px;
+  }
+  .reportImg {
+    width: 100px;
+    height: 100px;
+  }
+  .reportBtn {
+    margin-top: 7px;
+    padding: 7px;
+    padding-inline: 10px !important;
+    background-color: getColor(primary);
+    color: getColor(white);
+    font-weight: 400;
+    border-radius: 15px;
+
+    &:hover {
+      background-color: getColor(primary);
+    }
+  }
+
+  .trackingDetailsSection {
+    border-radius: 10px;
+    border: 1px solid getColor(border-color);
+
+    .details {
+      padding-inline: 10px;
+
+      h5 {
+        color: getColor(light-gray);
+      }
+      p {
+        font-weight: 700 !important;
+      }
+    }
+  }
+}

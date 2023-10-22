@@ -1,0 +1,33 @@
+{
+  "navbar": {
+    "open_menu": "Open main menu",
+    "bosta": "Bosta",
+    "home": "Home",
+    "prices": "Prices",
+    "call_sales": "Sales",
+    "track_shipment": "Track Shipment",
+    "login": "Sign In",
+    "track_your_shipment": "Track your shipment"
+  },
+  "table": {
+    "branch": "Branch",
+    "date": "Date",
+    "time": "Time",
+    "details": "Details"
+  },
+  "stepper": {
+    "shipment_created": "Shipment is created",
+    "shipment_received_from_merchant": "Shipment is received from merchant",
+    "shipment_out_for_deliver": "Shipment is out for delivery",
+    "deliver_done": "Delivery done"
+  },
+  "shipment_details": "Shipment Details",
+  "delivery_address": "Delivery Address",
+  "tracking_no": "Tracking No.",
+  "problem_question": "Do you have problems in your shipment?",
+  "report_problem": "Report the problem",
+  "no_data": "There is no data to show",
+  "last_update": "Last update",
+  "merchant_name": "Merchant name",
+  "delivery_time": "Delivery time"
+}

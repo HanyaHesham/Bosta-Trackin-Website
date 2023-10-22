@@ -1,0 +1,1 @@
+export let api_url='https://tracking.bosta.co'

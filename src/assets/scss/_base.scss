@@ -1,0 +1,21 @@
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-track {
+  background: #fff;
+}
+::-webkit-scrollbar-thumb {
+  background: getColor(primary);
+  border-radius: 5px;
+}
+.ant-breadcrumb-link {
+  &:hover {
+    background: transparent !important;
+  }
+}
+a {
+  text-decoration: none !important;
+  font-size: 1rem !important;
+  font-weight: bold !important;
+}

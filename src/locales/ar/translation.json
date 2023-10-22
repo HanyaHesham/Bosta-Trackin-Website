@@ -1,0 +1,33 @@
+{
+  "navbar": {
+    "open_menu": "افتح القائمة الرئيسية",
+    "bosta": "بوسطة",
+    "home": "الرئيسية",
+    "prices": "الأسعار",
+    "call_sales": "كلم المبيعات",
+    "track_shipment": "تتبع شحنتك",
+    "login": "تسجيل الدخول",
+    "track_your_shipment": "تتبع شحنتك"
+  },
+  "table": {
+    "branch": "الفرع",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "details": "تفاصيل"
+  },
+  "stepper": {
+    "shipment_created": "تم إنشاء الشحنة",
+    "shipment_received_from_merchant": "تم استلام الشحنة من التاجر",
+    "shipment_out_for_deliver": "الشحنة خرجت للتسليم",
+    "deliver_done": "تم التسليم"
+  },
+  "shipment_details": "تفاصيل الشحنة",
+  "delivery_address": "عنوان التسليم",
+  "tracking_no": "رقم الشحنة",
+  "problem_question": "هل لديك مشكلة في شحنتك؟",
+  "report_problem": "إبلاغ عن مشكلة",
+  "no_data": "لا يوجد بيانات",
+  "last_update": "أخر تحديث",
+  "merchant_name": "اسم التاجر",
+  "delivery_time": "موعد التسليم خلال"
+}
